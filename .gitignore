@@ -1,0 +1,5 @@
+*.o
+a.out
+rush01
+.DS_Store
+.vscode/
